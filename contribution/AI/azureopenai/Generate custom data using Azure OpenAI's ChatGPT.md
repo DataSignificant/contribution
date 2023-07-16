@@ -1,0 +1,2 @@
+# Generate custom data using Azure OpenAI's ChatGPT
+Generating your own data using Azure OpenAI's ChatGPT involves creating custom datasets by having interactive conversations with the language model. This synthetic data can then be used to design data pipelines and perform analytics, providing valuable insights for decision-making.
